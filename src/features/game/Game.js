@@ -3,6 +3,7 @@ import { useSelector, useDispatch } from 'react-redux'
 import GameWrapper from 'components/GameWrapper'
 import CellGrid from 'components/CellGrid'
 import Cell from 'components/Cell'
+import GithubCorner from 'components/GithubCorner'
 import Header from './Header'
 import { selectGame, initialize, revealCell, flagCell } from './slice'
 
@@ -28,6 +29,7 @@ export default function Game() {
 
   return (
     <GameWrapper>
+      <GithubCorner />
       <Header />
       <CellGrid rows={rows} cols={cols}>
         {board
