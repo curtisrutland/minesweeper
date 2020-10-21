@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "513d2b719480350c62f0e9e3eac34e16",
+    "revision": "925434faeb67f287f9c05d032d689dd3",
     "url": "/minesweeper/index.html"
   },
   {
-    "revision": "63a9a027191e50559c2f",
-    "url": "/minesweeper/static/css/main.0134cf59.chunk.css"
+    "revision": "7eb12affc5bc92175e45",
+    "url": "/minesweeper/static/css/main.30109b58.chunk.css"
   },
   {
     "revision": "1a45f5eacb921dc11d14",
@@ -16,19 +16,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minesweeper/static/js/2.adcef40c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63a9a027191e50559c2f",
-    "url": "/minesweeper/static/js/main.2f1cf80f.chunk.js"
+    "revision": "7eb12affc5bc92175e45",
+    "url": "/minesweeper/static/js/main.d35eb4aa.chunk.js"
   },
   {
     "revision": "e2c7e9f46b9595c0ecda",
     "url": "/minesweeper/static/js/runtime-main.85a42047.js"
   },
   {
-    "revision": "5d5e9d0ac4fe0e7cc14e6650cee660fe",
-    "url": "/minesweeper/static/media/bomb.5d5e9d0a.svg"
+    "revision": "4934d8d0acd9bbb2571d001adcb3ad41",
+    "url": "/minesweeper/static/media/bomb.4934d8d0.svg"
   },
   {
-    "revision": "2dbeae25a356479a49409be59dd2b737",
-    "url": "/minesweeper/static/media/flag.2dbeae25.svg"
+    "revision": "63ddae9589bb61e62f79a557226bf8ed",
+    "url": "/minesweeper/static/media/flag.63ddae95.svg"
   }
 ]);
