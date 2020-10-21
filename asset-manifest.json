@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.086d7547.chunk.css",
-    "main.js": "./main.bd0313690fdb14296578.bundle.js",
-    "main.css.map": "./static/css/main.086d7547.chunk.css.map",
-    "main.js.map": "./main.bd0313690fdb14296578.bundle.js.map",
-    "runtime~main.js": "./runtime~main.bd0313690fdb14296578.bundle.js",
-    "runtime~main.js.map": "./runtime~main.bd0313690fdb14296578.bundle.js.map",
-    "vendors~main.js": "./vendors~main.bd0313690fdb14296578.bundle.js",
-    "vendors~main.js.map": "./vendors~main.bd0313690fdb14296578.bundle.js.map",
-    "iframe.html": "./iframe.html",
-    "precache-manifest.91b3e1f29a342b577eb248215ffa3fe9.js": "./precache-manifest.91b3e1f29a342b577eb248215ffa3fe9.js",
-    "service-worker.js": "./service-worker.js",
-    "static/media/bomb.svg": "./static/media/bomb.4934d8d0.svg",
-    "static/media/flag.svg": "./static/media/flag.63ddae95.svg",
-    "vendors~main.bd0313690fdb14296578.bundle.js.LICENSE.txt": "./vendors~main.bd0313690fdb14296578.bundle.js.LICENSE.txt"
+    "main.css": "/minesweeper/static/css/main.30109b58.chunk.css",
+    "main.js": "/minesweeper/static/js/main.d35eb4aa.chunk.js",
+    "main.js.map": "/minesweeper/static/js/main.d35eb4aa.chunk.js.map",
+    "runtime-main.js": "/minesweeper/static/js/runtime-main.85a42047.js",
+    "runtime-main.js.map": "/minesweeper/static/js/runtime-main.85a42047.js.map",
+    "static/js/2.adcef40c.chunk.js": "/minesweeper/static/js/2.adcef40c.chunk.js",
+    "static/js/2.adcef40c.chunk.js.map": "/minesweeper/static/js/2.adcef40c.chunk.js.map",
+    "index.html": "/minesweeper/index.html",
+    "precache-manifest.d12ebc0e557ceb3dc953064f31ec409e.js": "/minesweeper/precache-manifest.d12ebc0e557ceb3dc953064f31ec409e.js",
+    "service-worker.js": "/minesweeper/service-worker.js",
+    "static/css/main.30109b58.chunk.css.map": "/minesweeper/static/css/main.30109b58.chunk.css.map",
+    "static/js/2.adcef40c.chunk.js.LICENSE.txt": "/minesweeper/static/js/2.adcef40c.chunk.js.LICENSE.txt",
+    "static/media/bomb.svg": "/minesweeper/static/media/bomb.4934d8d0.svg",
+    "static/media/flag.svg": "/minesweeper/static/media/flag.63ddae95.svg"
   },
   "entrypoints": [
-    "runtime~main.bd0313690fdb14296578.bundle.js",
-    "vendors~main.bd0313690fdb14296578.bundle.js",
-    "static/css/main.086d7547.chunk.css",
-    "main.bd0313690fdb14296578.bundle.js"
+    "static/js/runtime-main.85a42047.js",
+    "static/js/2.adcef40c.chunk.js",
+    "static/css/main.30109b58.chunk.css",
+    "static/js/main.d35eb4aa.chunk.js"
   ]
 }
